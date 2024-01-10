@@ -11,7 +11,7 @@ This is a simple web app built with React that fetches and displays information 
 ### Installation
 
 1. Clone the repository:
-   git clone (https://github.com/anujdhiman111/ISRO-Launches.git)
+  - git clone (https://github.com/anujdhiman111/ISRO-Launches.git)
    
 ### Navigate to the project directory:
 - cd isro-launches-webapp
